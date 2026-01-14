@@ -2,7 +2,7 @@
 <strong>Slide sobre o ciclo da água.</strong>
 
 <strong>Slide 1: Capa</strong> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Título: O Ciclo da Água.
+&nbsp;&nbsp;&nbsp;&nbsp;Título: O Ciclo da Água. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Subtítulo: Como a água se move pelo nosso planeta.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Imagem: Uma bela foto de uma paisagem com rio, montanhas e sol.
 
